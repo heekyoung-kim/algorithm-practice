@@ -11,7 +11,7 @@ public class LottoNumber {
 		
 		Set lottoSet = new HashSet();
 		
-		int num = 0;
+		int num = 0; 
 		
 		while(lottoSet.size() != 6) {
 			num = (int)(Math.random()*45+1);

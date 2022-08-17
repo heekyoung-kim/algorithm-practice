@@ -1,7 +1,7 @@
 package algorithmTest;
 
 public class BinarySearch {
-	
+
 	// 이진탐색을 활용하면 매번 비교되는 요소의 수가 절반으로 감소될 수 있으므로 O(logN)의 수행으로 원하는 수를 찾을 수 있다.
 	// 정렬된 수에서 하나의 수의 위치 찾기
 	public static void main(String[] args) {
